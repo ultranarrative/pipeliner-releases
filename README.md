@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="Pipeliner: Your project, run like a studio." width="100%">
+</p>
+
 # Pipeliner
 
-**Your project, run like a studio.** Plan a creative project from first sketch to launch: modules, tasks, sprints, a timeline, a calendar, assets and the people on it.
+**Your project, run like a studio.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+Plan a creative project from first sketch to launch: modules, tasks, sprints, a timeline, a calendar, assets and the people on it.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
