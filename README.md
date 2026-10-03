@@ -1,6 +1,6 @@
 # Pipeliner
 
-**Your project, run like a studio.** Plan a creative project from first sketch to launch: modules, tasks, sprints, a timeline, a calendar, assets and the people on it. It starts with a full game production plan to explore.
+**Your project, run like a studio.** Plan a creative project from first sketch to launch: modules, tasks, sprints, a timeline, a calendar, assets and the people on it.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
